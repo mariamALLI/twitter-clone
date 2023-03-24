@@ -28,7 +28,7 @@ Challenge:
 
 /*
 Challenge:
-Remeber that data attribute helps store etra info in html element
+Remeber that data attribute helps store extra info in html element
 1. Add data attributes to each of the  <i> tags. You can call
    them 'reply', 'like', and 'retweet’.
 2. Each data attribute should hold the tweet's uuid.
